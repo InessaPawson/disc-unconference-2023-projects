@@ -61,7 +61,7 @@ Depending on the organization’s available resources:
     Tax implications - make sure you’re aware of the laws regarding payments to individuals
 
 # Value
-Recognize why people become volunteers and understand their expectations. 
+Recognize why people become volunteers and understand their expectations. Understanding the motivations of your volunteers can help better support them. 
 
 *Reasons why people choose to volunteer:*
 - access to mentorship
